@@ -1,0 +1,13 @@
+ske_followcontrol\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+ske_followcontrol\heap_4.o: D:\APPs\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+ske_followcontrol\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+ske_followcontrol\heap_4.o: D:\APPs\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+ske_followcontrol\heap_4.o: D:\APPs\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+ske_followcontrol\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+ske_followcontrol\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+ske_followcontrol\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+ske_followcontrol\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+ske_followcontrol\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+ske_followcontrol\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+ske_followcontrol\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+ske_followcontrol\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
